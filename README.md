@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm a budding data engineer and I enjoy learning new things.
 
+<a href="https://app.daily.dev/lydialim93"><img src="https://github.com/lydialimlh/lydialimlh/blob/main/devcard.svg" width="400" alt="Lydia's Dev Card"/></a>
+
 <!--
 **lydialimlh/lydialimlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
